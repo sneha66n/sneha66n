@@ -4,7 +4,6 @@ I'm working on myself<br>looking forward to collaborating with others<br> learni
 
 <hr>
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnlqcGozbWFyZTlmNmwwZTZzY2l0YXp4MmpxdTM4a3Z1cWIxZ3NwYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/a6pzK009rlCak/giphy.gif" width="300">
 
 
 ## 🌐 Socials:
