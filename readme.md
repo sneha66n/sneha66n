@@ -3,7 +3,7 @@
 
 # 💫 About Me:
 I'm working on myself<br>looking forward to collaborating with others<br> learning animation.<br>My bio: I may look rude at first but sweet afterwards... I love to be productive, and I'm a Swiftie.
-<br>Fun fact: I get a new crush every 2 days. 😄
+
 
 <hr>
 
