@@ -1,10 +1,5 @@
 <img src="https://github.com/sneha66n/sneha66n/blob/main/snehan.svg">
 
-
-# 💫 About Me:
-I'm working on myself<br>looking forward to collaborating with others<br> learning animation.<br>My bio: I may look rude at first but sweet afterwards... I love to be productive, and I'm a Swiftie.
-
-
 <hr>
 
 
@@ -27,3 +22,4 @@ I'm working on myself<br>looking forward to collaborating with others<br> learni
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/Sneha66n)
+
